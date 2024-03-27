@@ -16,7 +16,7 @@ Model training is performed using the preprocessed dataset, and model performanc
 The results of the analysis, including insights gained and recommendations for further optimization, are documented in the notebook.
 
 
-# Instructions**:
+# Instructions:
 
 # Clone the repository to your local machine:
 
